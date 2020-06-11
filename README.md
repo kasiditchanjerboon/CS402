@@ -1,6 +1,7 @@
 # CS402
 Project File
 Name Group 62wil48
+```bash
 #include <SPI.h>
 #include <SD.h>
 
@@ -284,7 +285,8 @@ void loop() {
     Serial.println("-->>        Please check file Config.ini  ");
   }
 }
-
+```
+```bash
 ------ Code eclipse------
 ----UI----
 import java.awt.BorderLayout;
@@ -586,3 +588,4 @@ public class Pae2 implements ActionListener{
 
 
 }
+```
