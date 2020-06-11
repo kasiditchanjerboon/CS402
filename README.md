@@ -31,9 +31,9 @@
 ## Code for UI in Eclipse IDE
 - create new java project
 - create new class on project
-- copy file "src" this link : https://github.com/kasiditchanjerboon/CS402.git
+- copy file "UI" this link : https://github.com/kasiditchanjerboon/CS402.git
 
-## Code for UI in Arduino IDE
+## Code for sensor in Arduino IDE
 - copy file "testfinal" this link : https://github.com/kasiditchanjerboon/CS402.git
 
 ## Directory Tree
