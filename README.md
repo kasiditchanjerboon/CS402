@@ -19,11 +19,14 @@
 ### step 2
 - install software
 ### step 3
+- download Library sensor
+- open Arduino IDE --> Sketch --> Include Library --> Manage Libraries --> search "NewPing" --> install
 - open Arduino IDE --> File --> Examples --> 06.sensors--> ping
-- code for sensor
 ### step 4
+- download Library ReadWrite SD card
+- open Arduino IDE --> Sketch --> Include Library --> Manage Libraries --> search "SD" --> install
 - open Arduino IDE --> File --> Examples --> SD--> ReadWrite
-- code for ReadWrite SD card
+
 
 ## Code for UI in Eclipse IDE
 - create new java project
